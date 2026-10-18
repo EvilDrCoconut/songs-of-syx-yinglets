@@ -4,10 +4,6 @@ A Songs of Syx mod that adds the Yinglets as a playable race.
 
 *Work in progress.*
 
-## Testing
-
-See [TESTING.md](TESTING.md).
-
 ## Building
 
 Run `build.bat`. It converts the art in `art/` and installs the mod into the game's mod folder.
