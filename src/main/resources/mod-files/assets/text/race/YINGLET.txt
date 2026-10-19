@@ -33,7 +33,7 @@ CURSE: [
 	"By za ancestors!",
 	"Great Habzig's tits!",
 	"By za heavenly veil!",
-	"Oh my gods!"
+	"Oh my gods!",
 	"AAAAAAAAAH!",
 ],
 INSULT: [
@@ -59,7 +59,6 @@ CITY: [
 OTHERS: [
 	"tall ones",
 ],
-SELVES: [
 SELVES: [
 	"yinglet",
 	"zhe enclave",
