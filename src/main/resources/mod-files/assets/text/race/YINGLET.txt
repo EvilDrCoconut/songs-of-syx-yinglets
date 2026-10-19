@@ -76,8 +76,7 @@ DESC:
 ",
 DESC_LONG:
 "Greater Yinglets (commonly referred to simply as yinglets) are a young species that were first recorded 138 years ago in the humid marshes and swamps around the world.
- They are a matriarchal society with an extreme gender-imbalance, the males vastly outnumbering the females. As such, females are seen as a precious, almost holy demographic 
- in their society, often ruling enclaves of yinglets with a select few specialized patriarchs to help govern. 
+ They are a matriarchal society with an extreme gender-imbalance, the males vastly outnumbering the females. As such, females are seen as a precious, almost holy demographic in their society, often ruling enclaves of yinglets with a select few specialized patriarchs to help govern. 
 
 They like Fish and Meat. 
 ",
