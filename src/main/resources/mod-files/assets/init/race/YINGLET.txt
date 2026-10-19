@@ -116,7 +116,7 @@ PREFERRED: {
 	},
 },
 POPULATION: {
-	MAX: 1.5,
+	MAX: 1.0,
 	GROWTH: 1.0,
 	CLIMATE: {
 		COLD: 0.8,
