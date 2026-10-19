@@ -211,12 +211,12 @@ COLORS: {
 },
 CHILD: {
 
-	INFANT_FILE: Yinglet,
+	INFANT_FILE: Amevia,
 
 	COLOR_SKIN: SKIN,
 	COLOR_LEG: LEG,
 	
-	SPRITE_FILE: ChildYinglet,
+	SPRITE_FILE: ChildLizard,
 	SPRITE_SKELLETON_FILE: Humanoid_small,
 	NAMESET_FILE_FIRST: StdFirst,
 	NAMESET_FILE_SURNAME: StdLast,
@@ -235,7 +235,7 @@ CHILD: {
 				
 			},
 			FRAMES: [
-				Baby: 1,
+				YingletChild: 0,
 			],
 			OFF_Y: 0,
 			OFF_X: 0,
@@ -248,7 +248,7 @@ CHILD: {
 				},
 			},
 			FRAMES: [
-				Baby: 5,
+				YingletChild: 0,
 			],
 			OFF_Y: 0,
 			OFF_X: 0,

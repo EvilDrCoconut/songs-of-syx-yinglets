@@ -43,6 +43,7 @@ FACES = {
     "Make-Up.png": "YingletMakeup",
     "SlaveCollar.png": "YingletSlaveCollar",
     "baby.png": "YingletBaby",
+    "ChildYinglet.png": "YingletChild",
 }
 
 # source file (relative to SRC/face/addon) -> (output name, first row of the 48 px face window to keep)

@@ -1,0 +1,56 @@
+DREAMS: [
+	"Has always dreamt of being a {RND_PROFESSION}.",
+	"Always aspired to be a {RND_PROFESSION}, just like {HIS} egg-brozher.",
+	"Dreams of one day being noticed by zhe Matriarch.",
+	"Once found a perfect clam and has kept it ever since. Will not say where.",
+	"Is convinced zhere is a secret swamp somewhere with endless oysters.",
+	"Wants to dig zhe biggest hole anyone has ever seen.",
+	"Thinks {HE} could fight a Smilodon and win, as long as {HIS} brozhers helped. All of zhem.",
+	"Is fascinated by zhe tall ones and tries to copy how zhey walk.",
+	"Keeps a collection of shiny pebbles under {HIS} bed.",
+	"Hopes zhe ancestors are proud of {HIM}.",
+	"Thinks Amevias are very scary but also very cool.",
+	"Once ate so much fish {HE} could not move for a whole day. Considers it zhe best day of {HIS} life.",
+],
+
+TRAIT: {
+
+},
+
+HAPPY: [
+	"Is happy wizh your {RACE_CITY}, but has zhese ideas to make it even better:",
+	"Says you are doing a good job! But also found zhese things:",
+	"Had to zhink very hard to come up wizh zhese:",
+	"Wants for nozhing in your {RACE_CITY}, but heard a brozher say zhey wanted zhese:",
+],
+HAPPY_SOSO: [
+	"Feels zhere are a few things zhat could be better in zhe {RACE_CITY}:",
+	"Is mostly content, but was quick to mention:",
+	"Likes it in your {RACE_CITY}, but cannot help but want:",
+	"Thinks your {RACE_CITY} is a decent swamp to live in, but needs:",
+],
+HAPPY_NO: [
+	"Feels you can do better as a ruler. A lot better, honestly:",
+	"Clearly has some choice words about your {RACE_CITY}, but only said zhis:",
+	"Was close to tears, before mentioning:",
+	"Visibly zhought better of biting you and suggested zhe following:",
+],
+NOTHING: [
+	"Nozhing more can be done. Your {RACE_CITY} is zhe perfect swamp!",
+],
+FUNNY: [
+	"Stop picking your nose. It is not befitting a lord. Or a yinglet.",
+	"Pull up your pants, please.",
+	"Perhaps you could share some of zhose clams, Milord? Respectfully.",
+],
+
+STATS_MORE: {
+	STORED_GEM: [
+		"Inflation is a terrible zhing, you should invest zhe city's wealzh into gems zhat will not lose value as quickly.",
+		"Milord, all of zhe best enclaves have vaults full of shiny gems. Zhey are a lot easier to carry zhan sacks of coins.",
+	],
+},
+
+STATS_LESS: {
+
+},
