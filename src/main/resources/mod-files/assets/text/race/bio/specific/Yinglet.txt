@@ -3,13 +3,13 @@ DREAMS: [
 	"Always aspired to be a {RND_PROFESSION}, just like {HIS} egg-brozher.",
 	"Dreams of one day being noticed by zhe Matriarch.",
 	"Once found a perfect clam and has kept it ever since. Will not say where.",
-	"Is convinced zhere is a secret swamp somewhere with endless oysters.",
+	"Is convinced zhere is a secret swamp somewhere wizh endless oysters.",
 	"Wants to dig zhe biggest hole anyone has ever seen.",
-	"Thinks {HE} could fight a Smilodon and win, as long as {HIS} brozhers helped. All of zhem.",
+	"Zhinks {HE} could fight a Smilodon and win, as long as {HIS} brozhers helped. All of zhem.",
 	"Is fascinated by zhe tall ones and tries to copy how zhey walk.",
 	"Keeps a collection of shiny pebbles under {HIS} bed.",
 	"Hopes zhe ancestors are proud of {HIM}.",
-	"Thinks Amevias are very scary but also very cool.",
+	"Zhinks Amevias are very scary but also very cool.",
 	"Once ate so much fish {HE} could not move for a whole day. Considers it zhe best day of {HIS} life.",
 ],
 
@@ -19,15 +19,15 @@ TRAIT: {
 
 HAPPY: [
 	"Is happy wizh your {RACE_CITY}, but has zhese ideas to make it even better:",
-	"Says you are doing a good job! But also found zhese things:",
+	"Says you are doing a good job! But also found zhese zhings:",
 	"Had to zhink very hard to come up wizh zhese:",
 	"Wants for nozhing in your {RACE_CITY}, but heard a brozher say zhey wanted zhese:",
 ],
 HAPPY_SOSO: [
-	"Feels zhere are a few things zhat could be better in zhe {RACE_CITY}:",
+	"Feels zhere are a few zhings zhat could be better in zhe {RACE_CITY}:",
 	"Is mostly content, but was quick to mention:",
 	"Likes it in your {RACE_CITY}, but cannot help but want:",
-	"Thinks your {RACE_CITY} is a decent swamp to live in, but needs:",
+	"Zhinks your {RACE_CITY} is a decent swamp to live in, but needs:",
 ],
 HAPPY_NO: [
 	"Feels you can do better as a ruler. A lot better, honestly:",
