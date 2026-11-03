@@ -168,4 +168,6 @@ NAMES: [
 	"Yat-Yat",
 	"Burp",
 	"Suntickle",
+	"Alexee",
+	"Sylvie",
 ],
